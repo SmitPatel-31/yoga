@@ -280,7 +280,7 @@ traittypes==0.2.1
 twine==3.8.0
 Twisted==21.2.0
 typeguard==2.13.3
-typing-extensions==4.1.1
+typing_extensions==4.1.1
 tzdata==2021.2.post0
 tzlocal==4.0
 uncertainties==3.1.6
