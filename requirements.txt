@@ -153,7 +153,6 @@ numba==0.56.2
 numpy==1.21.5
 oauth2client==4.1.3
 oauthlib==3.2.0
-object-detection @ file:///Users/patelsmit/Downloads/ASL_to_English-main/Tensorflow/models/research
 opencv-contrib-python==4.5.5.64
 opencv-python==4.5.5.64
 opt-einsum==3.3.0
