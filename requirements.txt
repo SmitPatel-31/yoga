@@ -29,7 +29,7 @@ botocore==1.23.37
 bqplot==0.12.26
 branca==0.4.2
 bs4==0.0.1
-cachetools==4.1.0
+cachetools
 catboost==0.26
 certifi==2021.10.8
 cffi==1.14.5
